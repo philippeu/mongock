@@ -13,7 +13,7 @@
   <packaging>pom</packaging>
 
   <modules>
-    <module>core</module>
+    <module>mongock-core</module>
     <module>drivers</module>
   </modules>
 
